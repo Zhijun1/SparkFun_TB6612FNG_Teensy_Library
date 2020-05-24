@@ -40,10 +40,6 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information. 
 
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
-
-Distributed as-is; no warranty is given.
-
--Your friends at SparkFun.
+This reporsitory is a reproduce from https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library
 
 
